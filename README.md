@@ -1,6 +1,6 @@
 CodeAlpha UI Studio 🎨✨
 Advanced UI Components | CodeAlpha Task 2
-https://code-alpha-ui-t2-8unysri9k-srush.vercel.app/
+https://code-alpha-ui-t2.vercel.app/
 
 📌 Overview
 CodeAlpha UI Studio is a collection of modern, responsive, and reusable UI components. It focuses on clean code, seamless animations, and a "mobile-first" design philosophy to enhance user engagement across all devices.
